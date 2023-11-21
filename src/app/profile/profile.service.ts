@@ -95,7 +95,10 @@ Completed my Secondary school with 84%.`
       role: 'Full Stack Developer',
       work: `Integrated and implemented Docusign APIs, empowering Member Associates (MAs) to efficiently send healthcare documents to around 10k customers every week . 
       Architected database schema in Postgres DB, 5 APIs in Node and frontend components in Vue to handle Outbound Faxes in MTrack Application . 
-      Refactored 1000's of code blocks and created unit tests using Mocha and Chai and API tests with Supertest to ensure code functionality and maximize code coverage`
+      Built a comprehensive Dashboard page, utilizing Vue 3 and Typescript to provide managers with statistics into user activities, facilitating decision-making and resource allocation
+      Designed REST APIs leveraging Express and Node, deployed the Backend Server with Pm2 and Linux, enabling storage and retrieval of approximately 100k files associated with specific cases
+      Refactored 1000's of code blocks and created unit tests using Mocha and Chai and API tests with Supertest to ensure code functionality and maximize code coverage
+      Successfully designed and implemented a robust CI/CD pipeline using GitHub Actions, automating the build, test, and deployment processes`
     },
     {
       id: 4,
