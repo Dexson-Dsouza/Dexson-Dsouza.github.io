@@ -126,7 +126,7 @@
         "server": {
           "builder": "@angular-devkit/build-angular:server",
           "options": {
-            "outputPath": "dist/personal-portfoli-angular/server",
+            "outputPath": "docs",
             "main": "server.ts",
             "tsConfig": "tsconfig.server.json"
           },
